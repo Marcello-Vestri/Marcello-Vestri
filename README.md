@@ -45,13 +45,15 @@ A blend of robust Software Engineering tools and cutting-edge AI/ML frameworks.
 
 ---
 
-### 📊 GitHub Stats & Contributions
-Showcasing activity and code focus.
+### 📊 GitHub Stats & Streaks
+Showcasing activity, code focus, and consistency in development.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marcello-Vestri&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Marcello Vestri GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Marcello-Vestri&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Marcello Vestri GitHub Stats"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello-Vestri&layout=compact&theme=dark" alt="Marcello Vestri Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello-Vestri&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Marcello Vestri Top Languages"/>
+    <br/>
+    <img src="https://github-readme-streak-stats.demolab.com?user=Marcello-Vestri&theme=radical&hide_border=true" alt="Marcello Vestri GitHub Streak"/>
 </div>
 
 ---
