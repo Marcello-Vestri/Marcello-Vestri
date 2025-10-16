@@ -12,6 +12,9 @@ I'm a **Software Engineer** currently contributing to large-scale national proje
 
 My core focus is at the intersection of **Software Design** and **Artificial Intelligence**. I specialize in building highly scalable, containerized solutions and leveraging data to create intelligent systems.
 
+
+<img align="right" alt="Coding" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcello-Vestri&layout=compact">
+
 - **💻 Currently Focused On:** Building **Cloud-Native Microservices** (Java Spring Boot) and designing **Generative AI** solutions using **LLMs**.
 - **🧠 AI Expertise:** **Deep Learning** (PyTorch, TensorFlow) and **AI Agents** (leveraging IBM **Watsonx.ai**).
 - **💡 Proven Impact:** Published research on **AI-based Smart Home Energy Forecasting**.
